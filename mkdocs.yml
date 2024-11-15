@@ -1,0 +1,6 @@
+site_name: balabla
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - ENCO Data Visualization: 2.03_kgm_visualization_and_Correlation_between_variables.md
